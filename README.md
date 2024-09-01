@@ -28,4 +28,7 @@ To run the streamlit application
 streamlit run main.py
 ```
 
+##Intial Demo 📹
+
+https://github.com/user-attachments/assets/0eaffba2-473c-4925-bf96-4717cded7959
 
